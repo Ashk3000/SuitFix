@@ -1,0 +1,9 @@
+{
+    "name": "SuitFix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Ashk3000/SuitFix",
+    "description": "Make the tooltip for the default suit match the rest of the outfits.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
